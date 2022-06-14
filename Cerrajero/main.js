@@ -26,7 +26,6 @@ for (var i = 1; i <= 20; i++) {  //Creamos un ciclo for para obtener 20 modelos.
     documentFragment.appendChild(div); 
 }
 
-contenedor.appendChild(documentFragment) //Repasar como funciona el appendChild
-
+contenedor.appendChild(documentFragment) 
 
     
